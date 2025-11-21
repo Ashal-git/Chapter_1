@@ -8,4 +8,13 @@ output: html_document
 ```{r}
 setwd("C:/My_analysis")
 ```
+```{r}
+1+1
+```
+
+
+```{r}
+2/345
+```
+
 
