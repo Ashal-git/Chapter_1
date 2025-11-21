@@ -1,0 +1,11 @@
+---
+title: "Species_response"
+author: "Ashal Shrestha, ID 800920396"
+date: "2025-11-21"
+output: html_document
+---
+
+```{r}
+setwd("C:/My_analysis")
+```
+
